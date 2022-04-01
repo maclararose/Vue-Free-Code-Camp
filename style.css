@@ -1,0 +1,24 @@
+.box {
+  background-color: purple;
+  height: 200px;
+  width: 200px;
+}
+
+button {
+  height: 40px;
+  width: 100px;
+  border-radius: 5px;
+  background-color: white;
+  color: blue;
+  border: 2px, blue;
+}
+
+button:hover{
+  background-color: blue;
+  color: white;
+  transition: 0.5s;
+}
+
+v-cloak {
+  display: none;
+}
